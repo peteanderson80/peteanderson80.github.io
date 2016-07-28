@@ -1,0 +1,31 @@
+{% include base_path %}
+
+{% if publication.teaser %}
+  {% capture teaser %}{{ publication.teaser }}{% endcapture %}
+{% endif %}
+
+<div style="clear: both;">
+  <article class="publication__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication__item-teaser" style="margin-top: 1em;">
+      <img itemprop="image" src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="">
+    </div>
+    <div class="publication__item-text">
+      <h2 class="publication__item-title" itemprop="headline">
+        {{ publication.title | markdownify }}
+      </h2>
+      <p style="margin-top: -2em;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+      <p style="margin-top: -1em;">{{ publication.venue | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+      <p style="margin-top: -1em;">
+        {% for link in publication.links %}
+          {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
+        {% endfor %}
+      </p>
+    </div>
+  </article>
+</div>

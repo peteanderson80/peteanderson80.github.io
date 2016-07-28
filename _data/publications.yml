@@ -1,0 +1,51 @@
+# Publications on home page
+main:
+  - title: "SPICE: Semantic Propositional Image Caption Evaluation"
+    authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
+    venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2016."
+    teaser: spice-teaser.jpg
+    links: 
+      - "[Project](/spice/){: .btn .btn--inverse}"
+      - "[PDF](/images/SPICE.pdf){: .btn .btn--inverse}"
+      - "[Code](https://github.com/peteanderson80/SPICE){: .btn .btn--inverse}"
+  - title: "Discriminative Hierarchical Rank Pooling for Activity Recognition"
+    authors: "Basura Fernando, Peter Anderson, Marcus Hutter and Stephen Gould"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016."
+    teaser: rank-pooling-teaser.jpg
+    links: 
+      - "[PDF](/images/cvpr16-hrankpool.pdf){: .btn .btn--inverse}"
+      - "[Code](http://users.cecs.anu.edu.au/~basura/code/HRP_code.zip){: .btn .btn--inverse}"
+  - title: "An ICP Inspired Inverse Sensor Model with Unknown Data Association"
+    authors: "Peter Anderson, Youssef Hunter and Bernhard Hengst"
+    venue: "In *IEEE International Conference on Robotics and Automation (ICRA)*, 2013."
+    teaser: icp-teaser.jpg
+    links: 
+      - "[PDF](/images/ICP-sensor-model.pdf){: .btn .btn--inverse}"
+  - title: "Fast Monocular Visual Compass for a Computationally Limited Robot"
+    authors: "Peter Anderson and Bernhard Hengst"
+    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2013."
+    teaser: visualcompass-teaser.jpg
+    links: 
+      - "[PDF](/images/VisualCompass.pdf){: .btn .btn--inverse}"
+  - title: "Robocup Standard Platform League - rUNSWift 2012 Innovations"
+    authors: "Sean Harris, Peter Anderson, Belinda Teh, Youssef Hunter, Roger Liu, Bernhard Hengst, Ritwik Roy, Sam Li, Carl Chatfield"
+    venue: "In *Australasian Conference on Robotics and Automation (ACRA)*, 2012."
+    teaser: acra-teaser.jpg
+    links: 
+      - "[PDF](/images/acra12.pdf){: .btn .btn--inverse}"
+  - title: "Robot Localisation Using Natural Landmarks"
+    authors: "Peter Anderson, Yongki Yusmanthia, Bernhard Hengst and Arcot Sowmya"
+    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2012."
+    teaser: landmarks-teaser.jpg
+    links: 
+      - "[PDF](/images/NaturalLandmarks.pdf){: .btn .btn--inverse}"
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+---
+layout: single
+author_profile: true
+---
+
+{% include base_path %}
+
+{% include timeline.html %}
+
+<h2>News</h2>
+{% for item in site.data.news.main %}
+<p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+{% endfor %}
+
+<h2 style="clear: both;" id="publications">Publications</h2>
+{% for publication in site.data.publications.main %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+
+<h2 id="presentations">Presentations</h2>
+{% for item in site.data.presentations.main %}
+  {{ item | markdownify}}
+{% endfor %}
+
+<h2>Other Projects</h2>
+<div>
+  <article class="publication__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication__item-teaser" style="margin-top: 1em;">
+      <img itemprop="image" src="/images/FrameFish.jpg"  alt="">
+    </div>
+    <div class="publication__item-text">
+      <h2 class="publication__item-title" itemprop="headline">FrameFish</h2>
+      <p>FrameFish is an eyewear virtual try-on system for ecommerce websites. I designed it to load and respond more quickly than competing systems, which can take up to 10 seconds to generate a virtual-try-on image (FrameFish takes about 1 second). FrameFish received an Innovate NSW grant and has been featured on Sky Business News and in the UNSW Young Entrepreneurs series.</p>
+    </div>
+  </article>
+</div>

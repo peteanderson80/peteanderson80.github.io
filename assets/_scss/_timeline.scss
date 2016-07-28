@@ -1,0 +1,76 @@
+/* ==========================================================================
+   TIMELINE
+   ========================================================================== */
+
+
+#timeline .timelineitem h2 {
+  margin-bottom: 4px;
+  font-size: 16px;
+  font-size: 1.25rem;
+}
+
+#timeline .tdesc {
+  font-size: .75em;
+}
+
+@media (min-width: 768px) {
+  .timelineitem:nth-child(odd) {
+    margin-left: 50%;
+    border-left: 5px solid $darker-gray;
+    text-align: left;
+  }
+  .timelineitem:nth-child(even) {
+    margin-right: 50%;
+    margin-left: 5px;
+    border-right: 5px solid $darker-gray;
+    text-align: right;
+  }
+  .timelineitem {
+    width: 50%;
+    position: relative;
+    padding: 5px 20px;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+  }
+  .timelineitem:nth-child(odd):before {
+   left: -8px;
+  }
+  .timelineitem:nth-child(even):before {
+    right: -8px;
+  }
+}
+
+.timelineitem:before {
+  width: 11px;
+  height: 11px;
+  background: $darker-gray;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .timelineitem {
+    border-left: 5px solid $darker-gray;
+    text-align: left;
+    margin-left: 10px;
+    padding: 5px;
+    position: relative;
+  }
+  .timelineitem:before {
+    left: -8px;
+  }
+}
+
+.tdate {
+  margin-bottom: -35px;
+  color: $info-color;
+}
+
+.new {
+  color: $danger-color;
+}
+

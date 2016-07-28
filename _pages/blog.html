@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /blog/
+title: "Blog"
+---
+
+<div id="main" role="main">
+  <div class="sidebar sticky">
+    <a href="{{ base_path }}/feed.xml"><i class="fa fa-rss fa-2x" aria-hidden="true"></i></a>
+    <h3>panderson's blog</h3>
+    <p>Thoughts on computer vision, robotics and startups.</p>
+  </div>
+  <div class="archive">
+    {% capture written_year %}'None'{% endcapture %}
+    {% for post in site.posts %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% if year != written_year %}
+        <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+        {% capture written_year %}{{ year }}{% endcapture %}
+      {% endif %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</div>

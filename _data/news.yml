@@ -1,0 +1,3 @@
+# News on home page
+main:
+  - "(July 2016) We have released a new [image caption evaluation metric (SPICE)](/spice/) that improves on CIDEr and METEOR. The paper will appear at ECCV 2016."
