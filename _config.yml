@@ -11,7 +11,7 @@ title                    : "Peter Anderson"
 title_separator          : "-"
 name                     : "Peter Anderson"
 description              : "Peter Anderson's personal academic website."
-url                      : # http://www.panderson.me
+url                      : http://www.panderson.me
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
