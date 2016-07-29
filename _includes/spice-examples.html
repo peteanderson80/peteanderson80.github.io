@@ -34,8 +34,8 @@ function renderSceneGraph(svg, tuples) {
   var nodes = {};
   var links = [];
   tuples.forEach(function(tuple_dict, index) {
-    tuple = tuple_dict.tuple
-    match_class = (tuple_dict.truth_value) ? ' highlighted' : '';
+    var tuple = tuple_dict.tuple;
+    var match_class = (tuple_dict.truth_value) ? ' highlighted' : '';
     if (tuple.length == 1){
       source = nodes[tuple[0]] || (nodes[tuple[0]] = {name: tuple[0], type: 'object'});
       source.type += match_class;
