@@ -39,7 +39,7 @@ function renderSceneGraph(svg, tuples) {
       .size([width, height])
       .linkDistance(50)
       .charge(-300)
-      .on("tick", tick)
+      .on("tick", sg_tick)
       .start();
   // Per-type markers, as they don't inherit styles.
   svg.append("defs").selectAll("marker")
@@ -55,30 +55,30 @@ function renderSceneGraph(svg, tuples) {
     .append("path")
       .attr("d", "M0,-5L10,0L0,5");
   // add the links and their arrows
-  var path = svg.append("g").selectAll("path")
+  var sg_path = svg.append("g").selectAll("path")
       .data(force.links())
     .enter().append("path")
       .attr("class", function(d) { return "link " + d.type; })
       .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
   // add the nodes
-  var node = svg.append("g").selectAll("circle")
+  var sg_node = svg.append("g").selectAll("circle")
       .data(force.nodes())
     .enter().append("circle")
       .attr("r", 6)
       .attr("class", function(d) { return "sg " + d.type; })
       .call(force.drag);
   // add the text
-  var text = svg.append("g").selectAll("text")
+  var sg_text = svg.append("g").selectAll("text")
       .data(force.nodes())
     .enter().append("text")
       .attr("x", 8)
       .attr("y", ".31em")
       .text(function(d) { return d.name; });
   // Use elliptical arc path segments to doubly-encode directionality.
-  function tick() {
-    path.attr("d", linkArc);
-    node.attr("transform", transform);
-    text.attr("transform", transform);
+  function sg_tick() {
+    sg_path.attr("d", linkArc);
+    sg_node.attr("transform", transform);
+    sg_text.attr("transform", transform);
   }
   function linkArc(d) {
     var dx = d.target.x - d.source.x,

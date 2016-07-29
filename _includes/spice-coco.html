@@ -1,0 +1,17 @@
+{% include base_path %}
+
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="http://mpld3.github.io/js/mpld3.v0.3git.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/images/coco.js"></script>
+
+<span> Choose Evaluation: </span>
+<button class="btn btn--info btn-lg" onclick="loadM1()">M1</button>
+<button class="btn btn--info btn-lg" onclick="loadM2()">M2</button>
+<button class="btn btn--info btn-lg" onclick="loadM3()">M3</button>
+<button class="btn btn--info btn-lg" onclick="loadM4()">M4</button>
+<button class="btn btn--info btn-lg" onclick="loadM5()">M5</button>
+
+<figure>
+  <figcaption id="evaluation-choice"></figcaption>
+  <div id="fig"></div>
+</figure>
