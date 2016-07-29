@@ -56,7 +56,6 @@ function renderSceneGraph(svg, tuples) {
       links.push({source: nodes[tuple[1]], target: nodes[tuple[2]], type: 'standard'+match_class});
     }
   });
-
   links.forEach(function(d) {
     d.straight = 1;
     links.forEach(function(d1) {
@@ -64,10 +63,8 @@ function renderSceneGraph(svg, tuples) {
         d.straight = 0;
     });
   });
-
   var width = svg.style("width").replace("px", ""),
       height = svg.style("height").replace("px", "");
-
   var force = d3.layout.force()
       .nodes(d3.values(nodes))
       .links(links)
@@ -76,7 +73,6 @@ function renderSceneGraph(svg, tuples) {
       .charge(-300)
       .on("tick", tick)
       .start();
-
   // Per-type markers, as they don't inherit styles.
   svg.append("defs").selectAll("marker")
       .data(["standard", "standard highlighted"])
@@ -90,14 +86,12 @@ function renderSceneGraph(svg, tuples) {
       .attr("orient", "auto")
     .append("path")
       .attr("d", "M0,-5L10,0L0,5");
-
   // add the links and their arrows
   var path = svg.append("g").selectAll("path")
       .data(force.links())
     .enter().append("path")
       .attr("class", function(d) { return "link " + d.type; })
       .attr("marker-end", function(d) { return "url(#" + d.type + ")"; });
-
   // add the nodes
   var node = svg.append("g").selectAll("circle")
       .data(force.nodes())
@@ -105,7 +99,6 @@ function renderSceneGraph(svg, tuples) {
       .attr("r", 6)
       .attr("class", function(d) { return "sg " + d.type; })
       .call(force.drag);
-
   // add the text
   var text = svg.append("g").selectAll("text")
       .data(force.nodes())
@@ -114,14 +107,12 @@ function renderSceneGraph(svg, tuples) {
       //.attr("x", function() { console.log(this.getBoundingClientRect()); var offset=(this == 1)?8:-8; return offset; })
       .attr("y", ".31em")
       .text(function(d) { return d.name; });
-
   // Use elliptical arc path segments to doubly-encode directionality.
   function tick() {
     path.attr("d", linkArc);
     node.attr("transform", transform);
     text.attr("transform", transform);
   }
-
   function linkArc(d) {
     var dx = d.target.x - d.source.x,
         dy = d.target.y - d.source.y,
@@ -129,7 +120,6 @@ function renderSceneGraph(svg, tuples) {
     return "M" + d.source.x + "," + d.source.y +
         "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
   }
-
   function transform(d) {
     // Keep within bounds of svg
     var buffer = 7;
@@ -138,7 +128,6 @@ function renderSceneGraph(svg, tuples) {
     return "translate(" + x + "," + y + ")";
   }
 }
-
 function visualizeit(item){
   // FIRST PANEL
   // Add title
@@ -152,7 +141,6 @@ function visualizeit(item){
   item.reference_captions.forEach(function(caption) {
     p = d3.select("#ref-panel").append("p").attr("class","removable").text("\"" + caption + "\"");
   })
-
   // SECOND PANEL
   // reference sg
   var svg_ref = d3.select("#reference")
@@ -161,7 +149,6 @@ function visualizeit(item){
     .attr("width", "100%")
     .attr("height", 350);
   renderSceneGraph(svg_ref, item.ref_tuples);
-
   // THIRD PANEL
   // candidate caption
   d3.select("#candidate-caption").text("\"" + item.test_caption[0] + "\"");
@@ -175,14 +162,12 @@ function visualizeit(item){
   // candidate scores
   d3.select("#candidate-scores").text("SPICE F-Score: " + item.scores.All.f + ", Pr: " + item.scores.All.pr + ", Re: " + item.scores.All.re);
 }
-
 item_index = 0;
 d3.json("/images/coco_examples.json", function(error, json) {
   if (error) return console.warn(error);
   data = json;
   visualizeit(data[item_index]);
 });
-
 function step(distance){
   d3.selectAll(".removable").remove()
   item_index += distance;
