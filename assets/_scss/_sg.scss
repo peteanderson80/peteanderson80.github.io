@@ -1,0 +1,51 @@
+/* ==========================================================================
+   SCENE GRAPH ELEMENTS
+   ========================================================================== */
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.link.highlighted {
+  stroke: green;
+  stroke-width: 3px;
+}
+
+.sg {
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+.sg.object {
+  fill: #ffaeb9;
+}
+.sg.attribute {
+  fill: #a8dda8;
+}
+.sg.relation {
+  fill: #bfefff;
+}
+.sg.highlighted {
+  stroke: green;
+  stroke-width: 3px;
+}
+
+#ref-panel p {
+  margin: 0;
+}
+
+text {
+  font: 14px sans-serif;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+}
+
+@media (max-width: 768px) {
+text {
+  font: 12px sans-serif;
+}
+
+
+}
