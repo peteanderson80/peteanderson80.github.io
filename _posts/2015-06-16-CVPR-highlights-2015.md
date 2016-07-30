@@ -1,7 +1,6 @@
 ---
 title: "CVPR Highlights 2015"
 excerpt: "Picking the low-hanging deep fruit."
-tags: [CVPR, Computer Vision and Pattern Recognition, computer vision, deep learning, conference, Boston]
 comments: true
 share: true
 header:
@@ -13,10 +12,11 @@ Having just returned from CVPR 2015 in Boston, the sense of deep learning excite
 ## Picking the low-hanging deep fruit
 Clearly there are still many new applications being found for convolutional neural networks (CNNs). In many problem domains, researcher's are still reporting significant performance improvements when using CNNs to replace other discriminatively trained classifiers. One conference attendee I spoke to described this as "picking the low-hanging deep fruit". In any case, citations of Alex Krizhevsky's seminal [2012 NIPS paper](http://papers.nips.cc/paper/4824-imagenet-classification-w) must be through the roof. In fact, in many papers this CNN architecture ('AlexNet') is still being reused, even though it is now 3 years old. 
 
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/alexnet2012-small.png" alt="">
+
+<p>
+  <img class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/alexnet2012-small.png" alt="">
   <figcaption>AlexNet.</figcaption>
-</figure>
+</p>
 
 <figure class="align-right"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/lena.jpg" alt="">
@@ -32,38 +32,38 @@ One of the key developments in CNNs this year was the increasing use of feature 
 
 Looking at these papers side-by-side, the most fascinating observation for me is that the best performance on Pascal VOC 2012 semantic segmentation (which was 'zoom-out features' by a significant margin) was achieved using a network pre-trained on ImageNet, as-is. The base network was *not even fine-tuned on the task at hand.* This certainly illustrates the power of using activations from every layer of a CNN.
 
-<figure class="align-right"> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hypercolumn.jpg" alt="">
+<p>
+  <img class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/hypercolumn.jpg" alt="">
   <figcaption>Hypercolumn used to combine coarse semantic information from output layers, with fine appearance information from lower layers</figcaption>
-</figure>
+</p>
 
 ## 3D from a single image
 
 This year again featured an oral on [reconstructing 3D from a single image](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kar_Category-Specific_Object_Reconstruction_2015_CVPR_paper.pdf) (which was awarded best student paper) and also included a full day workshop on this task as well. It certainly seems that there is increasing attention focused on a challenge that only a few years ago would have been considered too difficult. Although current approaches require ground truth segmentation and keypoints for the training images, no doubt many researchers are working on relaxing these requirements. It will certainly be interesting to follow progress in this area.
 
-<figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/3Dreconstruction.jpg" alt="">
+<p>
+    <img class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/3Dreconstruction.jpg" alt="">
     <figcaption>Automatic object reconstruction from a single image.</figcaption>
-</figure>
+</p>
 
 
 ## Visualising deep networks
 
 Some interesting work is being done on how to visualise feature activations with deep networks. This paper ([Understanding Deep Image Representations by Inverting Them](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)) proposed an optimisation method to sample the space of possible reconstructions for a given set of feature activations. This approach then illustrates some of the photometric and geometric invariances captured at each layer of the net, as illustrated in the image below. I also caught a fascinating invited workshop talk by Antonio Torralba that touched on this topic as well. Check out this really nice [interactive visualization of a deep network](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html?path=imagenetCNN) by his group at MIT.
 
-<figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/visualise.jpg">
+<p>
+    <img class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/visualise.jpg">
     <figcaption>Reconstruction of an input image from each layer of a CNN, illustrating photometric and geometric invariances at each level</figcaption>
-</figure>
+</p>
 
 
 ## Merging vision and language
 
 It seems like rapid progress is being made on the problem of generating natural language image descriptions (aka image captioning), for example this paper ([Deep Visual-Semantic Alignments for Generating Image Descriptions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)). I've heard it argued around the lunch table that this isn't an important problem. Whether that's true or not, it's certainly a good yardstick for progress. I'm certainly looking forward to downloading Andrej Karpathy's [code from this paper](http://cs.stanford.edu/people/karpathy/deepimagesent/) and testing it out.
-<figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/captioning.jpg">
+<p>
+    <img class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/captioning.jpg">
     <figcaption>The image captioning problem</figcaption>
-</figure>
+</p>
 
 ## Other stuff
 

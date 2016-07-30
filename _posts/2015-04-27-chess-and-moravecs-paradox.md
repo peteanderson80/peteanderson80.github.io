@@ -1,7 +1,6 @@
 ---
 title: "Cheating Chess Players and Moravec's Paradox"
 excerpt: "If an iPhone can threaten a Grandmaster, why can't I get a robot to unpack the dishwasher?"
-tags: [Hans Moravec, chess, ai, Moravec's paradox, robotics, intelligence, iphone]
 comments: true
 share: true
 header:
