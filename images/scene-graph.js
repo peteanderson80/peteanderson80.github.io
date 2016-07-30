@@ -133,14 +133,28 @@ item_index = 0;
 d3.json("/images/coco_examples.json", function(error, json) {
   if (error) return console.warn(error);
   data = json;
-  visualizeit(data[item_index]);
+  step(0);
 });
+
+function get_index(base_index, distance){
+  base_index += distance;
+  if (base_index < 0){
+    base_index += data.length;
+  }
+  base_index %= data.length;
+  return base_index;
+}
+
 function step(distance){
   d3.selectAll(".removable").remove()
-  item_index += distance;
-  if (item_index < 0){
-    item_index += data.length;
-  }
-  item_index %= data.length;
+  item_index = get_index(item_index, distance);
   visualizeit(data[item_index]);
+  // Preload next few images
+  preload_count = 5
+  for (i = -preload_count; i <= preload_count; i++) {
+    if (i==0) continue;
+    var next_index = get_index(item_index, i);
+    var img = new Image();
+    img.src = "http://mscoco.org/images/"+data[next_index].image_id;
+  }
 };
