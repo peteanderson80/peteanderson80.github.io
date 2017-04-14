@@ -1,3 +1,4 @@
 # News on home page
 main:
+  - "(April 2017) I am currently interning with the Deep Learning Technology Center working with [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/) and [Xiaodong He](https://www.microsoft.com/en-us/research/people/xiaohe/) at Microsoft AI & Research, Redmond, Washington USA."
   - "(July 2016) We have released a new [image caption evaluation metric (SPICE)](/spice/) that improves on CIDEr and METEOR. The paper will appear at ECCV 2016."
