@@ -1,5 +1,12 @@
 # Publications on home page
 main:
+  - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
+    authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
+    venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
+    teaser: cat.jpg
+    links: 
+      - "[PDF](/images/constrained-beam-search.pdf){: .btn .btn--inverse}"
+
   - title: "SPICE: Semantic Propositional Image Caption Evaluation"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2016."
