@@ -1,5 +1,11 @@
 # Publications on home page
 main:
+  - title: "Bottom-Up and Top-Down Attention for Image Captioning and VQA"
+    authors: "Peter Anderson, "
+    venue: “preprint arXiv:1707.07998, 2017."
+    teaser: up-down-concept.png
+    links: 
+      - "[PDF](/images/1707.07998-up-down.pdf){: .btn .btn--inverse}"
   - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
