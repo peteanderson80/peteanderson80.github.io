@@ -17,8 +17,8 @@ Top-down visual attention mechanisms have been used extensively in image caption
   <figcaption>Caption: Two men playing frisbee in a dark field.</figcaption>
   <img src="{{ site.url }}{{ site.baseurl }}/images/20459.png" alt="">
   <figcaption>Question: What color is illuminated on the traffic light? Answer left: green. Answer right: red.</figcaption>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/vqa_27756.png" alt="" style="max-width: 47%;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/vqa_527379.png" alt="" style="max-width: 47%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/vqa_27756.png" alt="" style="max-width: 47%;">
 </figure>
 
 ### Paper and Code
