@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(Sept 2017) We have been selected to receive a Facebook ParlAI research award."
   - "(26 July 2017) We are 1st in the 2017 Visual Question Answering (VQA) Challenge at CVPR! We are also 1st on the MSCOCO image captioning leaderboard. Details and code are on the [project page](/up-down-attention/)."
   - "(July 2017) Our paper on [out-of-domain image captioning](/images/constrained-beam-search.pdf) is accepted to EMNLP 2017."
   - "(April 2017) I am currently interning with the Deep Learning Technology Center working with [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/) and [Xiaodong He](https://www.microsoft.com/en-us/research/people/xiaohe/) at Microsoft AI & Research, Redmond, Washington USA."
