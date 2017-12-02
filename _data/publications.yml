@@ -1,6 +1,13 @@
 # Publications on home page
 main:
-  - title: "Bottom-Up and Top-Down Attention for Image Captioning and VQA"
+  - title: "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments"
+    authors: "Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
+    venue: "preprint arXiv:1711.07280, 2017."
+    teaser: VLN-teaser.jpg
+    links: 
+      - "[PDF](https://arxiv.org/pdf/1711.07280){: .btn .btn--inverse}"
+      - "[Code](https://github.com/peteanderson80/Matterport3DSimulator){: .btn .btn--inverse}"
+  - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
     authors: "Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
     venue: "preprint arXiv:1707.07998, 2017."
     teaser: up-down-concept.png
