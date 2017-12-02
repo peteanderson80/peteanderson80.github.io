@@ -1,7 +1,8 @@
 # News on home page
 main:
   - "(December 2017) We will be presenting our work on Vision-and-Language Navigation at the NIPS 2017 [ViGIL workshop](https://nips2017vigil.github.io)."
-  - "(26 July 2017) We are 1st in the 2017 Visual Question Answering (VQA) Challenge at CVPR! We are also 1st on the MSCOCO image captioning leaderboard. Details in our arxiv paper on [bottom-up and top-down attention](https://arxiv.org/abs/1707.07998) (with code coming soon)."
+  - "(Sept 2017) We have been selected to receive a Facebook ParlAI research award."
+  - "(26 July 2017) We are 1st in the 2017 Visual Question Answering (VQA) Challenge at CVPR! We are also 1st on the MSCOCO image captioning leaderboard. Details and code are on the [project page](/up-down-attention/)."
   - "(July 2017) Our paper on [out-of-domain image captioning](/images/constrained-beam-search.pdf) is accepted to EMNLP 2017."
   - "(April 2017) I am currently interning with the Deep Learning Technology Center working with [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/) and [Xiaodong He](https://www.microsoft.com/en-us/research/people/xiaohe/) at Microsoft AI & Research, Redmond, Washington USA."
   - "(July 2016) We have released a new [image caption evaluation metric (SPICE)](/spice/) that improves on CIDEr and METEOR. The paper will appear at ECCV 2016."

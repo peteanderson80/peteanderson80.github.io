@@ -10,13 +10,22 @@ main:
   - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
     authors: "Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
     venue: "preprint arXiv:1707.07998, 2017."
-    teaser: up-down-concept.png
+    teaser: rcnn_example_2.png
     links: 
+      - "[Project](/up-down-attention/){: .btn .btn--inverse}"
       - "[PDF](/images/1707.07998-up-down.pdf){: .btn .btn--inverse}"
+      - "[Code](https://github.com/peteanderson80/bottom-up-attention){: .btn .btn--inverse}"
+  - title: "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"
+    authors: "Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel"
+    venue: "preprint arXiv:1708.02711, 2017."
+    teaser: vqa-concept.png
+    links: 
+      - "[PDF](/images/1708.02711-vqa.pdf){: .btn .btn--inverse}"
+      - "[Slides](/images/VQA-Challenge-Slides-TeneyAnderson.pdf){: .btn .btn--inverse}"
   - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
-    teaser: cat.jpg
+    teaser: fsm.jpg
     links: 
       - "[PDF](/images/constrained-beam-search.pdf){: .btn .btn--inverse}"
 
@@ -59,12 +68,6 @@ main:
     teaser: landmarks-teaser.jpg
     links: 
       - "[PDF](/images/NaturalLandmarks.pdf){: .btn .btn--inverse}"
-
-
-
-
-
-
 
 
 
