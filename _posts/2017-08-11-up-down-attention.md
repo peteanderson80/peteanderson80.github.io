@@ -11,6 +11,8 @@ header:
 
 [Peter Anderson](/), [Xiaodong He](https://www.microsoft.com/en-us/research/people/xiaohe/), [Chris Buehler](https://www.linkedin.com/in/christopher-buehler-3656a29), [Damien Teney](https://www.damienteney.info/), [Mark Johnson](http://web.science.mq.edu.au/~mjohnson/), [Stephen Gould](http://users.cecs.anu.edu.au/~sgould/), [Lei Zhang](https://www.microsoft.com/en-us/research/people/leizhang/)
 
+**CVPR 2018 (Selected for Oral Presentation)**
+
 Top-down visual attention mechanisms have been used extensively in image captioning and visual question answering (VQA) to enable deeper image understanding through fine-grained analysis and even multiple steps of reasoning. In this work, we propose a combined bottom-up and topdown attention mechanism that enables attention to be calculated at the level of objects and other salient image regions. This is the natural basis for attention to be considered. Within our approach, the bottom-up mechanism (based on Faster R-CNN) proposes image regions, each with an associated feature vector, while the top-down mechanism determines feature weightings. Applying this approach to image captioning, our results on the MSCOCO test server establish a new state-of-the-art for the task, improving the best published result in terms of CIDEr score from **114.7** to **117.9** and BLEU-4 from **35.2** to **36.9**. Demonstrating the broad applicability of the method, applying the same approach to VQA we obtain first place in the [2017 VQA Challenge](http://www.visualqa.org/workshop.html). 
 
 <figure class="align-center"> 

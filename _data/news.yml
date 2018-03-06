@@ -1,7 +1,7 @@
 # News on home page
 main:
   - "(February 2018) Our proposed tutorial on [Connecting Language and Vision to Actions](https://lvatutorial.github.io/) has been accepted by [ACL 2018](http://acl2018.org/)."
-  - "(February 2018) We have 3 papers accepted to CVPR 2018 (including one oral and one spotlight)! Congratulations to all co-authors."
+  - "(February 2018) We have 3 papers accepted to CVPR 2018, including [one oral](/up-down-attention/) and [one spotlight](https://bringmeaspoon.org/)! Congratulations to all co-authors."
   - "(February 2018) We have published code for our recently [state-of-the-art image captioning model](https://github.com/peteanderson80/Up-Down-Captioner)."
   - "(December 2017) We will be presenting our work on [Vision-and-Language Navigation](https://bringmeaspoon.org/) at the NIPS 2017 [ViGIL workshop](https://nips2017vigil.github.io)."
   - "(Sept 2017) We have been selected to receive a [Facebook ParlAI research award](https://research.fb.com/announcing-the-winners-of-the-facebook-parlai-research-awards/)."
