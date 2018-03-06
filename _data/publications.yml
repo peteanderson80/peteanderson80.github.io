@@ -2,7 +2,7 @@
 main:
   - title: "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments"
     authors: "Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
-    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
+    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation**"
     teaser: VLN-teaser.jpg
     links: 
       - "[Project](https://bringmeaspoon.org/){: .btn .btn--inverse}"
@@ -10,7 +10,7 @@ main:
       - "[Code](https://github.com/peteanderson80/Matterport3DSimulator){: .btn .btn--inverse}"
   - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
     authors: "Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
-    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
+    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation**"
     teaser: rcnn_example_2.png
     links: 
       - "[Project](/up-down-attention/){: .btn .btn--inverse}"
