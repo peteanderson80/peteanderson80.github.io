@@ -5,12 +5,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% include timeline.html %}
-
 <h2>News</h2>
-{% for item in site.data.news.main %}
-<p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
-{% endfor %}
+<div id="news">
+  {% for item in site.data.news.main %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('news'); showBlock('allnews'); return false;" class="btn btn--inverse">More</a>
+</div>
+<div id="allnews" style="display: none;">
+  {% for item in site.data.news.all %}
+  <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+  {% endfor %}
+  <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
+</div>
 
 <h2 style="clear: both;" id="publications">Publications</h2>
 {% for publication in site.data.publications.main %}
@@ -27,6 +34,9 @@ author_profile: true
   {{ item | markdownify}}
 {% endfor %}
 
+<h2 id="bio">Bio</h2>
+{% include timeline.html %}
+
 <h2>Other Projects</h2>
 <div>
   <article class="publication__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -39,3 +49,4 @@ author_profile: true
     </div>
   </article>
 </div>
+
