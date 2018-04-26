@@ -32,11 +32,11 @@ Top-down visual attention mechanisms have been used extensively in image caption
 
 ### Reference
 ```
-@article{Anderson2017up-down,
+@inproceedings{Anderson2017up-down,
   author = {Peter Anderson and Xiaodong He and Chris Buehler and Damien Teney and Mark Johnson and Stephen Gould and Lei Zhang},
   title = {Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering},
-  journal = {arXiv preprint arXiv:1707.07998},
-  year = {2017}
+  booktitle={CVPR},
+  year = {2018}
 }
 ```
 
