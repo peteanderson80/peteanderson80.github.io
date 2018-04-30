@@ -8,3 +8,6 @@ main:
 
   - title: "Bio"
     url: /#bio
+    
+  - title: "CV"
+    url: /images/PeterAndersonCV.pdf
