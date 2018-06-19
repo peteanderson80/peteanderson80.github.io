@@ -28,6 +28,7 @@ Top-down visual attention mechanisms have been used extensively in image caption
 [PDF](/images/1707.07998-up-down.pdf){: .btn .btn--info}
 [Features Code](https://github.com/peteanderson80/bottom-up-attention){: .btn .btn--inverse}
 [Captioning Code](https://github.com/peteanderson80/Up-Down-Captioner){: .btn .btn--inverse}
+[Poster](/images/cvpr18_UpDown_poster.pdf){: .btn}
 
 
 ### Reference
