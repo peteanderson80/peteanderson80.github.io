@@ -1,5 +1,12 @@
 # Publications on home page
 main:
+  - title: "Partially-Supervised Image Captioning"
+    authors: "Peter Anderson, Stephen Gould, Mark Johnson"
+    venue: “ArXiv preprint 1806.06004, 2018."
+    teaser: tiger.png
+    links: 
+      - "[PDF](https://arxiv.org/pdf/1806.06004.pdf){: .btn .btn--info}"
+
   - title: "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments"
     authors: "Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
     venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation**"
