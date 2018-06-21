@@ -26,6 +26,7 @@ main:
       - "[Features Code](https://github.com/peteanderson80/bottom-up-attention){: .btn .btn--inverse}"
       - "[Captioning Code](https://github.com/peteanderson80/Up-Down-Captioner){: .btn .btn--inverse}"
       - "[Poster](/images/cvpr18_UpDown_poster.pdf){: .btn}"
+      - "[Slides](/images/CVPR-Up-Down-talk.pdf){: .btn}"
   - title: "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"
     authors: "Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel"
     venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
