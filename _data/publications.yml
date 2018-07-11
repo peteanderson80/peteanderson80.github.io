@@ -6,10 +6,15 @@ main:
     teaser: tiger.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1806.06004.pdf){: .btn .btn--info}"
-
+  - title: "Predicting accuracy on large datasets from smaller pilot data"
+    authors: "Mark Johnson, Peter Anderson, Mark Dras, Mark Steedman"
+    venue: "In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2018. **Oral Presentation**"
+    teaser: pilotdata.jpg
+    links: 
+      - "[PDF](/images/P18-2072.pdf){: .btn .btn--info}"
   - title: "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments"
     authors: "Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
-    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation**"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation**"
     teaser: VLN-teaser.jpg
     links: 
       - "[Project](https://bringmeaspoon.org/){: .btn .btn--success}"
@@ -18,7 +23,7 @@ main:
       - "[Poster](/images/cvpr18_VLN_poster.pdf){: .btn}"
   - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
     authors: "Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
-    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation**"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation**"
     teaser: rcnn_example_2.png
     links: 
       - "[Project](/up-down-attention/){: .btn .btn--success}"
@@ -29,7 +34,7 @@ main:
       - "[Slides](/images/CVPR-Up-Down-talk.pdf){: .btn}"
   - title: "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"
     authors: "Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel"
-    venue: "Accepted to *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
     teaser: vqa-concept.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1708.02711){: .btn .btn--info}"
