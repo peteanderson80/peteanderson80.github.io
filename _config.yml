@@ -65,8 +65,8 @@ google_ad_slot           :
 author:
   name             : # "Peter Anderson"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD student in Computer Vision / Deep Learning"
-  location         : "Sydney / Canberra"
+  bio              : "Research Scientist in Computer Vision / Deep Learning at Georgia Tech"
+  location         : "Atlanta, Georgia USA"
   email            : "peter.anderson@anu.edu.au"
   uri              :
   bitbucket        :
@@ -225,4 +225,3 @@ defaults:
       type: pages
     values:
       layout: single
-
