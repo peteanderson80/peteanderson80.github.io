@@ -6,6 +6,12 @@ main:
     teaser: tiger.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1806.06004.pdf){: .btn .btn--info}"
+  - title: "Disfluency Detection using Auto-Correlational Neural Networks"
+    authors: "Paria Jamshid Lou, Peter Anderson, Mark Johnson"
+    venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2018."
+    teaser: acnn.png
+    links: 
+      - "[PDF](https://arxiv.org/pdf/1808.09092.pdf){: .btn .btn--info}"
   - title: "Predicting accuracy on large datasets from smaller pilot data"
     authors: "Mark Johnson, Peter Anderson, Mark Dras, Mark Steedman"
     venue: "In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2018. **Oral Presentation**"
