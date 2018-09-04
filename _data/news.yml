@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(September 2018) Our paper is accepted to [NIPS 2018](https://nips.cc/)."
   - "(August 2018) We have one paper accepted to [EMNLP 2018](http://emnlp2018.org/)."
   - "(July 2018) Excited to announce that I have started as a research scientist at Georgia Tech, collaborating with [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Devi Parikh](https://www.cc.gatech.edu/~parikh/)."
   - "(July 2018) Slides available from our tutorial on [Connecting Language and Vision to Actions](https://lvatutorial.github.io/) at [ACL 2018](http://acl2018.org/)."
@@ -10,6 +11,7 @@ main:
   - "(February 2018) We have three papers accepted to CVPR 2018, including [one oral](/up-down-attention/) and [one spotlight](https://bringmeaspoon.org/)! Congratulations to all co-authors."
 
 all:
+  - "(September 2018) Our paper is accepted to [NIPS 2018](https://nips.cc/)."
   - "(August 2018) We have one paper accepted to [EMNLP 2018](http://emnlp2018.org/)."
   - "(July 2018) Excited to announce that I have started as a research scientist at Georgia Tech, collaborating with [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Devi Parikh](https://www.cc.gatech.edu/~parikh/)."
   - "(July 2018) Slides available from our tutorial on [Connecting Language and Vision to Actions](https://lvatutorial.github.io/) at [ACL 2018](http://acl2018.org/)."
