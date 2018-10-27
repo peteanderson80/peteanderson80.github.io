@@ -3,7 +3,7 @@ main:
   - title: "Partially-Supervised Image Captioning"
     authors: "Peter Anderson, Stephen Gould, Mark Johnson"
     venue: "To appear in *Advances in Neural Information Processing Systems (NIPS)*, 2018."
-    teaser: tiger.png
+    teaser: PS3.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1806.06004.pdf){: .btn .btn--info}"
   - title: "Disfluency Detection using Auto-Correlational Neural Networks"
@@ -48,14 +48,14 @@ main:
   - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
-    teaser: fsm.jpg
+    teaser: fsm.png
     links: 
       - "[PDF](/images/constrained-beam-search.pdf){: .btn .btn--info}"
 
   - title: "SPICE: Semantic Propositional Image Caption Evaluation"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2016."
-    teaser: spice-teaser.jpg
+    teaser: spice-concept.png
     links: 
       - "[Project](/spice/){: .btn .btn--success}"
       - "[PDF](/images/SPICE.pdf){: .btn .btn--info}"

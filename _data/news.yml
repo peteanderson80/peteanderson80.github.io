@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(December 2018) Organizing the [Visually Grounded Interaction and Language Workshop](https://nips2018vigil.github.io/) at NIPS."
   - "(September 2018) Our paper is accepted to [NIPS 2018](https://nips.cc/)."
   - "(August 2018) We have one paper accepted to [EMNLP 2018](http://emnlp2018.org/)."
   - "(July 2018) Excited to announce that I have started as a research scientist at Georgia Tech, collaborating with [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Devi Parikh](https://www.cc.gatech.edu/~parikh/)."
@@ -8,6 +9,7 @@ main:
   - "(May 2018) Our Vision and Language Navigation (VLN) [challenge and leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/97/overview) is now live on EvalAI!"
 
 all:
+  - "(December 2018) Organizing the [Visually Grounded Interaction and Language Workshop at NIPS](https://nips2018vigil.github.io/)."
   - "(September 2018) Our paper is accepted to [NIPS 2018](https://nips.cc/)."
   - "(August 2018) We have one paper accepted to [EMNLP 2018](http://emnlp2018.org/)."
   - "(July 2018) Excited to announce that I have started as a research scientist at Georgia Tech, collaborating with [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) and [Devi Parikh](https://www.cc.gatech.edu/~parikh/)."
