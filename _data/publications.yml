@@ -1,5 +1,12 @@
 # Publications on home page
 main:
+  - title: "nocaps: novel object captioning at scale"
+    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Xinlei Chen, Rishabh Jain, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
+    venue: "arXiv preprint 1812.08658, 2018."
+    teaser: nocaps.jpg
+    links:
+      - "[Project](https://nocaps.org/){: .btn .btn--success}"
+      - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
   - title: "Partially-Supervised Image Captioning"
     authors: "Peter Anderson, Stephen Gould, Mark Johnson"
     venue: "To appear in *Advances in Neural Information Processing Systems (NeurIPS)*, 2018."
@@ -13,6 +20,12 @@ main:
     teaser: acnn.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1808.09092.pdf){: .btn .btn--info}"
+  - title: "On Evaluation of Embodied Navigation Agents"
+    authors: "Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir"
+    venue: "arXiv preprint 1807.06757, 2018."
+    teaser: evaluation.png
+    links: 
+      - "[PDF](https://arxiv.org/pdf/1807.06757.pdf){: .btn .btn--info}"
   - title: "Predicting accuracy on large datasets from smaller pilot data"
     authors: "Mark Johnson, Peter Anderson, Mark Dras, Mark Steedman"
     venue: "In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2018. **Oral Presentation**"
