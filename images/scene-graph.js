@@ -103,7 +103,7 @@ function visualizeit(item){
   //  .attr("class","removable")
   //  .text("Image: " + item.image_id);
   // Add image
-  d3.select("#caption-img").attr("src", "http://mscoco.org/images/"+item.image_id);
+  d3.select("#caption-img").attr("src", "https://mscoco.org/images/"+item.image_id);
   // reference captions
   item.reference_captions.forEach(function(caption) {
     p = d3.select("#ref-panel").append("p").attr("class","removable").text("\"" + caption + "\"");
@@ -155,6 +155,6 @@ function step(distance){
     if (i==0) continue;
     var next_index = get_index(item_index, i);
     var img = new Image();
-    img.src = "http://mscoco.org/images/"+data[next_index].image_id;
+    img.src = "https://mscoco.org/images/"+data[next_index].image_id;
   }
 };
