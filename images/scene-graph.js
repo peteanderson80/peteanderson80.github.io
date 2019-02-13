@@ -103,7 +103,7 @@ function visualizeit(item){
   //  .attr("class","removable")
   //  .text("Image: " + item.image_id);
   // Add image
-  d3.select("#caption-img").attr("src", "https://mscoco.org/images/"+item.image_id);
+  d3.select("#caption-img").attr("src", item.flickr_url);
   // reference captions
   item.reference_captions.forEach(function(caption) {
     p = d3.select("#ref-panel").append("p").attr("class","removable").text("\"" + caption + "\"");
@@ -130,7 +130,7 @@ function visualizeit(item){
   d3.select("#candidate-scores").text("SPICE F-Score: " + item.scores.All.f + ", Pr: " + item.scores.All.pr + ", Re: " + item.scores.All.re);
 }
 item_index = 0;
-d3.json("/images/coco_examples.json", function(error, json) {
+d3.json("/images/coco_examples_new.json", function(error, json) {
   if (error) return console.warn(error);
   data = json;
   step(0);
@@ -155,6 +155,6 @@ function step(distance){
     if (i==0) continue;
     var next_index = get_index(item_index, i);
     var img = new Image();
-    img.src = "https://mscoco.org/images/"+data[next_index].image_id;
+    img.src = data[next_index].flickr_url;
   }
 };
