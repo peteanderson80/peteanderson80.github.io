@@ -1,5 +1,12 @@
 # Publications on home page
 main:
+  - title: "Audio-Visual Scene-Aware Dialog"
+    authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Stefan Lee, Peter Anderson, Irfan Essa, Devi Parikh, Dhruv Batra, Anoop Cherian, Tim K. Marks, Chiori Hori"
+    venue: "arXiv preprint 1901.09107, 2019."
+    teaser: avsd.png
+    links:
+      - "[Project](https://video-dialog.com/){: .btn .btn--success}"
+      - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
     authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Xinlei Chen, Rishabh Jain, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
     venue: "arXiv preprint 1812.08658, 2018."
