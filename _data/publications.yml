@@ -2,7 +2,7 @@
 main:
   - title: "Audio-Visual Scene-Aware Dialog"
     authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Stefan Lee, Peter Anderson, Irfan Essa, Devi Parikh, Dhruv Batra, Anoop Cherian, Tim K. Marks, Chiori Hori"
-    venue: "arXiv preprint 1901.09107, 2019."
+    venue: "To appear in *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
     teaser: avsd.png
     links:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
