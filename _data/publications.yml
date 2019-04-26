@@ -8,7 +8,7 @@ main:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
-    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Xinlei Chen, Rishabh Jain, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
+    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
     venue: "arXiv preprint 1812.08658, 2018."
     teaser: nocaps.jpg
     links:
