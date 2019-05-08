@@ -1,5 +1,12 @@
 # Publications on home page
 main:
+  - title: "nocaps: novel object captioning at scale"
+    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
+    venue: "arXiv preprint 1812.08658, 2019."
+    teaser: nocaps.jpg
+    links:
+      - "[Project](https://nocaps.org/){: .btn .btn--success}"
+      - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
   - title: "Audio-Visual Scene-Aware Dialog"
     authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K. Marks, Chiori Hori, Peter Anderson, Stefan Lee, Devi Parikh"
     venue: "To appear in *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
@@ -7,13 +14,6 @@ main:
     links:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
-  - title: "nocaps: novel object captioning at scale"
-    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
-    venue: "arXiv preprint 1812.08658, 2018."
-    teaser: nocaps.jpg
-    links:
-      - "[Project](https://nocaps.org/){: .btn .btn--success}"
-      - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
   - title: "Partially-Supervised Image Captioning"
     authors: "Peter Anderson, Stephen Gould, Mark Johnson"
     venue: "In *Advances in Neural Information Processing Systems (NeurIPS)*, 2018."
