@@ -1,5 +1,17 @@
 # Publications on home page
 main:
+  - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
+    authors: "Ashwin Kalyan, Peter Anderson, Stefan Lee, Dhruv Batra"
+    venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019."
+    teaser: sets_of_sequences.png
+    links:
+      - "[Coming Soon](/){: .btn .btn--info}"
+  - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
+    authors: "Yuankai Qi, Qi Wu, Peter Anderson, Marco Liu, Chunhua Shen, Anton van den Hengel"
+    venue: "arXiv preprint 1904.10151, 2019."
+    teaser: rerere.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
     authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
     venue: "arXiv preprint 1812.08658, 2019."
