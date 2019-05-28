@@ -5,7 +5,8 @@ main:
     venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019."
     teaser: sets_of_sequences.png
     links:
-      - "[Coming Soon](/){: .btn .btn--info}"
+      - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/ashwinkalyan/diff-bs){: .btn .btn--inverse}"
   - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
     authors: "Yuankai Qi, Qi Wu, Peter Anderson, Marco Liu, Chunhua Shen, Anton van den Hengel"
     venue: "arXiv preprint 1904.10151, 2019."
