@@ -19,8 +19,19 @@ author_profile: true
   <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
 </div>
 
-<h2 style="clear: both;" id="publications">Publications</h2><a href="https://scholar.google.com/citations?user=r5mA7Q8AAAAJ&hl=en" style="font-size: 0.85em;">[Google Scholar]</a>
-{% for publication in site.data.publications.main %}
+<h2 style="clear: both;" id="publications">Publications <a href="https://scholar.google.com/citations?user=r5mA7Q8AAAAJ&hl=en" style="font-size: 0.85em; font-weight: normal;">[Google Scholar]</a></h2>
+<h3>2019</h3>
+{% for publication in site.data.publications.year2019 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+<h3>2018</h3>
+{% for publication in site.data.publications.year2018 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+<h3>2017 (and earlier)</h3>
+{% for publication in site.data.publications.year2017 %}
   {% include publication-single.html %}
 {% endfor %}
 <div style="clear: both;"></div>

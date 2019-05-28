@@ -1,5 +1,5 @@
 # Publications on home page
-main:
+year2019:
   - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
     authors: "Ashwin Kalyan, Peter Anderson, Stefan Lee, Dhruv Batra"
     venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019."
@@ -27,6 +27,7 @@ main:
     links:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
+year2018:
   - title: "Partially-Supervised Image Captioning"
     authors: "Peter Anderson, Stephen Gould, Mark Johnson"
     venue: "In *Advances in Neural Information Processing Systems (NeurIPS)*, 2018."
@@ -79,6 +80,7 @@ main:
     links: 
       - "[PDF](https://arxiv.org/pdf/1708.02711){: .btn .btn--info}"
       - "[Slides](/images/VQA-Challenge-Slides-TeneyAnderson.pdf){: .btn}"
+year2017:
   - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
     authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
