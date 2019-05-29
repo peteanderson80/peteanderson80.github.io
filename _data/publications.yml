@@ -1,27 +1,27 @@
 # Publications on home page
 year2019:
   - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
-    authors: "Ashwin Kalyan, Peter Anderson, Stefan Lee, Dhruv Batra"
-    venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019."
+    authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
+    venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019. **Oral Presentation**{:.oral}"
     teaser: sets_of_sequences.png
     links:
       - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
       - "[Code](https://github.com/ashwinkalyan/diff-bs){: .btn .btn--inverse}"
   - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
-    authors: "Yuankai Qi, Qi Wu, Peter Anderson, Marco Liu, Chunhua Shen, Anton van den Hengel"
+    authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Marco Liu, Chunhua Shen, Anton van den Hengel"
     venue: "arXiv preprint 1904.10151, 2019."
     teaser: rerere.png
     links:
       - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
-    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson"
+    authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, **Peter Anderson**"
     venue: "arXiv preprint 1812.08658, 2019."
     teaser: nocaps.jpg
     links:
       - "[Project](https://nocaps.org/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
   - title: "Audio-Visual Scene-Aware Dialog"
-    authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K. Marks, Chiori Hori, Peter Anderson, Stefan Lee, Devi Parikh"
+    authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K. Marks, Chiori Hori, **Peter Anderson**, Stefan Lee, Devi Parikh"
     venue: "To appear in *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
     teaser: avsd.png
     links:
@@ -29,33 +29,33 @@ year2019:
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
 year2018:
   - title: "Partially-Supervised Image Captioning"
-    authors: "Peter Anderson, Stephen Gould, Mark Johnson"
+    authors: "**Peter Anderson**, Stephen Gould, Mark Johnson"
     venue: "In *Advances in Neural Information Processing Systems (NeurIPS)*, 2018."
     teaser: PS3.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1806.06004.pdf){: .btn .btn--info}"
       - "[Poster](/images/NIPS_PS3.pdf){: .btn}"
   - title: "Disfluency Detection using Auto-Correlational Neural Networks"
-    authors: "Paria Jamshid Lou, Peter Anderson, Mark Johnson"
+    authors: "Paria Jamshid Lou, **Peter Anderson**, Mark Johnson"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2018."
     teaser: acnn.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1808.09092.pdf){: .btn .btn--info}"
   - title: "On Evaluation of Embodied Navigation Agents"
-    authors: "Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir"
+    authors: "**Peter Anderson**, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir"
     venue: "arXiv preprint 1807.06757, 2018."
     teaser: evaluation.png
     links: 
       - "[PDF](https://arxiv.org/pdf/1807.06757.pdf){: .btn .btn--info}"
   - title: "Predicting accuracy on large datasets from smaller pilot data"
-    authors: "Mark Johnson, Peter Anderson, Mark Dras, Mark Steedman"
-    venue: "In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2018. **Oral Presentation**"
+    authors: "Mark Johnson, **Peter Anderson**, Mark Dras, Mark Steedman"
+    venue: "In *Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)*, 2018. **Oral Presentation [Top 4.6%]**{:.oral}"
     teaser: pilotdata.jpg
     links: 
       - "[PDF](/images/P18-2072.pdf){: .btn .btn--info}"
   - title: "Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments"
-    authors: "Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation**"
+    authors: "**Peter Anderson**, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Spotlight Presentation [Top 8.9%]**{:.oral}"
     teaser: VLN-teaser.jpg
     links: 
       - "[Project](https://bringmeaspoon.org/){: .btn .btn--success}"
@@ -63,8 +63,8 @@ year2018:
       - "[Code](https://github.com/peteanderson80/Matterport3DSimulator){: .btn .btn--inverse}"
       - "[Poster](/images/cvpr18_VLN_poster.pdf){: .btn}"
   - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
-    authors: "Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation**"
+    authors: "**Peter Anderson**, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation [Top 2.1%]**{:.oral}"
     teaser: rcnn_example_2.png
     links: 
       - "[Project](/up-down-attention/){: .btn .btn--success}"
@@ -74,7 +74,7 @@ year2018:
       - "[Poster](/images/cvpr18_UpDown_poster.pdf){: .btn}"
       - "[Slides](/images/CVPR-Up-Down-talk.pdf){: .btn}"
   - title: "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"
-    authors: "Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel"
+    authors: "Damien Teney, **Peter Anderson**, Xiaodong He, Anton van den Hengel"
     venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018."
     teaser: vqa-concept.png
     links: 
@@ -82,14 +82,14 @@ year2018:
       - "[Slides](/images/VQA-Challenge-Slides-TeneyAnderson.pdf){: .btn}"
 year2017:
   - title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
-    authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
+    authors: "**Peter Anderson**, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2017."
     teaser: fsm.png
     links: 
       - "[PDF](/images/constrained-beam-search.pdf){: .btn .btn--info}"
 
   - title: "SPICE: Semantic Propositional Image Caption Evaluation"
-    authors: "Peter Anderson, Basura Fernando, Mark Johnson and Stephen Gould"
+    authors: "**Peter Anderson**, Basura Fernando, Mark Johnson and Stephen Gould"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2016."
     teaser: spice-concept.png
     links: 
@@ -100,33 +100,33 @@ year2017:
       - "[Slides](/images/SPICE-slides.pdf){: .btn}"
 
   - title: "Discriminative Hierarchical Rank Pooling for Activity Recognition"
-    authors: "Basura Fernando, Peter Anderson, Marcus Hutter and Stephen Gould"
+    authors: "Basura Fernando, **Peter Anderson**, Marcus Hutter and Stephen Gould"
     venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016."
     teaser: rank-pooling-teaser.jpg
     links: 
       - "[PDF](/images/cvpr16-hrankpool.pdf){: .btn .btn--info}"
       - "[Code](http://users.cecs.anu.edu.au/~basura/code/HRP_code.zip){: .btn .btn--inverse}"
   - title: "An ICP Inspired Inverse Sensor Model with Unknown Data Association"
-    authors: "Peter Anderson, Youssef Hunter and Bernhard Hengst"
+    authors: "**Peter Anderson**, Youssef Hunter and Bernhard Hengst"
     venue: "In *IEEE International Conference on Robotics and Automation (ICRA)*, 2013."
     teaser: icp-teaser.jpg
     links: 
       - "[PDF](/images/ICP-sensor-model.pdf){: .btn .btn--info}"
   - title: "Fast Monocular Visual Compass for a Computationally Limited Robot"
-    authors: "Peter Anderson and Bernhard Hengst"
+    authors: "**Peter Anderson** and Bernhard Hengst"
     venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2013."
     teaser: visualcompass-teaser.jpg
     links: 
       - "[PDF](/images/VisualCompass.pdf){: .btn .btn--info}"
   - title: "Robocup Standard Platform League - rUNSWift 2012 Innovations"
-    authors: "Sean Harris, Peter Anderson, Belinda Teh, Youssef Hunter, Roger Liu, Bernhard Hengst, Ritwik Roy, Sam Li, Carl Chatfield"
+    authors: "Sean Harris, **Peter Anderson**, Belinda Teh, Youssef Hunter, Roger Liu, Bernhard Hengst, Ritwik Roy, Sam Li, Carl Chatfield"
     venue: "In *Australasian Conference on Robotics and Automation (ACRA)*, 2012."
     teaser: acra-teaser.jpg
     links: 
       - "[PDF](/images/acra12.pdf){: .btn .btn--info}"
   - title: "Robot Localisation Using Natural Landmarks"
-    authors: "Peter Anderson, Yongki Yusmanthia, Bernhard Hengst and Arcot Sowmya"
-    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2012."
+    authors: "**Peter Anderson**, Yongki Yusmanthia, Bernhard Hengst and Arcot Sowmya"
+    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2012. **Oral Presentation, Best Paper Finalist**{:.oral}"
     teaser: landmarks-teaser.jpg
     links: 
       - "[PDF](/images/NaturalLandmarks.pdf){: .btn .btn--info}"
