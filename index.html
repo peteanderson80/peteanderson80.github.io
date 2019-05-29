@@ -30,8 +30,13 @@ author_profile: true
   {% include publication-single.html %}
 {% endfor %}
 <div style="clear: both;"></div>
-<h3>2017 (and earlier)</h3>
+<h3>2016/2017</h3>
 {% for publication in site.data.publications.year2017 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+<h3>Undergrad</h3>
+{% for publication in site.data.publications.undergrad %}
   {% include publication-single.html %}
 {% endfor %}
 <div style="clear: both;"></div>
