@@ -106,6 +106,13 @@ year2017:
     links: 
       - "[PDF](/images/cvpr16-hrankpool.pdf){: .btn .btn--info}"
       - "[Code](http://users.cecs.anu.edu.au/~basura/code/HRP_code.zip){: .btn .btn--inverse}"
+thesis:
+  - title: "Vision and Language Learning: From Image Captioning and Visual Question Answering towards Embodied Agents"
+    authors: "**Peter Anderson**"
+    venue: "*PhD Thesis, Australian National University*, 2018."
+    teaser: anu-logo.jpg
+    links: 
+      - "[PDF](/images/Andersonthesis.pdf){: .btn .btn--info}"
 undergrad:
   - title: "An ICP Inspired Inverse Sensor Model with Unknown Data Association"
     authors: "**Peter Anderson**, Youssef Hunter and Bernhard Hengst"
