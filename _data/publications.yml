@@ -1,12 +1,11 @@
 # Publications on home page
 year2019:
-  - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
-    authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
-    venue: "To appear in *International Conference on Machine Learning (ICML)*, 2019. **Oral Presentation**{:.oral}"
-    teaser: sets_of_sequences.png
+  - title: "Chasing Ghosts: Instruction Following as Bayesian State Tracking"
+    authors: "**Peter Anderson**&#42;, Ayush Shrivastava&#42;, Devi Parikh, Dhruv Batra, Stefan Lee"
+    venue: "arXiv preprint 1907.02022, 2019."
+    teaser: chasing_ghosts.png
     links:
-      - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/ashwinkalyan/diff-bs){: .btn .btn--inverse}"
+      - "[PDF](https://arxiv.org/pdf/1907.02022.pdf){: .btn .btn--info}"
   - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
     authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Marco Liu, Chunhua Shen, Anton van den Hengel"
     venue: "arXiv preprint 1904.10151, 2019."
@@ -22,11 +21,18 @@ year2019:
       - "[PDF](https://arxiv.org/pdf/1812.08658.pdf){: .btn .btn--info}"
   - title: "Audio-Visual Scene-Aware Dialog"
     authors: "Huda Alamri, Vincent Cartillier, Abhishek Das, Jue Wang, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K. Marks, Chiori Hori, **Peter Anderson**, Stefan Lee, Devi Parikh"
-    venue: "To appear in *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019."
     teaser: avsd.png
     links:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
+  - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
+    authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
+    venue: "In *International Conference on Machine Learning (ICML)*, 2019. **Oral Presentation**{:.oral}"
+    teaser: sets_of_sequences.png
+    links:
+      - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/ashwinkalyan/diff-bs){: .btn .btn--inverse}"
 year2018:
   - title: "Partially-Supervised Image Captioning"
     authors: "**Peter Anderson**, Stephen Gould, Mark Johnson"
@@ -123,7 +129,7 @@ undergrad:
       - "[PDF](/images/ICP-sensor-model.pdf){: .btn .btn--info}"
   - title: "Fast Monocular Visual Compass for a Computationally Limited Robot"
     authors: "**Peter Anderson** and Bernhard Hengst"
-    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2013."
+    venue: "In *Proceedings of the RoboCup International Symposium (RoboCup)*, 2013. **Oral Presentation**{:.oral}"
     teaser: visualcompass-teaser.jpg
     links: 
       - "[PDF](/images/VisualCompass.pdf){: .btn .btn--info}"
