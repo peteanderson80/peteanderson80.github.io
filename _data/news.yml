@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(May 2019) Our [nocaps](https://nocaps.org/) paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/)."
   - "(May 2019) Recognized as a [CVPR 2019 outstanding reviewer](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)."
   - "(May 2019) We have released the [nocaps](https://nocaps.org/) benchmark for **n**ovel **o**bject **cap**tioning at **s**cale."
   - "(April 2019) We have a paper accepted to [ICML 2019](https://icml.cc/). Congratulations Ashwin."
@@ -8,6 +9,7 @@ main:
   - "(February 2019) I am serving as an Area Chair for [NeurIPS 2019](https://neurips.cc/Conferences/2019)."
 
 all:
+  - "(May 2019) Our [nocaps](https://nocaps.org/) paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/)."
   - "(May 2019) Recognized as a [CVPR 2019 outstanding reviewer](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)."
   - "(May 2019) We have released the [nocaps](https://nocaps.org/) benchmark for **n**ovel **o**bject **cap**tioning at **s**cale."
   - "(April 2019) We have a paper accepted to [ICML 2019](https://icml.cc/). Congratulations Ashwin."
