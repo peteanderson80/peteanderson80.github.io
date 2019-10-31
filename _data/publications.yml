@@ -14,7 +14,7 @@ year2019:
       - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
     authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, **Peter Anderson**"
-    venue: "To appear in *International Conference on Computer Vision (ICCV)*, 2019."
+    venue: "In *International Conference on Computer Vision (ICCV)*, 2019."
     teaser: nocaps.jpg
     links:
       - "[Project](https://nocaps.org/){: .btn .btn--success}"
