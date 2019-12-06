@@ -7,6 +7,8 @@ year2019:
     links:
       - "[PDF](https://arxiv.org/pdf/1907.02022.pdf){: .btn .btn--info}"
       - "[Video](https://www.youtube.com/watch?v=eoGbescCNP0){: .btn}"
+      - "[Poster](/images/vln-neurips19-poster.pdf){: .btn}"
+      - "[Code](https://github.com/batra-mlp-lab/vln-chasing-ghosts){: .btn .btn--inverse}"
   - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
     authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Marco Liu, Chunhua Shen, Anton van den Hengel"
     venue: "arXiv preprint 1904.10151, 2019."
