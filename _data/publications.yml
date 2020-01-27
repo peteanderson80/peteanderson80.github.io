@@ -30,6 +30,12 @@ year2019:
     links:
       - "[Project](https://video-dialog.com/){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/1901.09107.pdf){: .btn .btn--info}"
+  - title: "Visual Landmark Selection for Generating Grounded and Interpretable Navigation Instructions"
+    authors: "Sanyam Agarwal, Devi Parikh, Dhruv Batra, **Peter Anderson**, Stefan Lee"
+    venue: "In *CVPR Workshop on Deep Learning for Semantic Visual Navigation*, 2019."
+    teaser: VLN-gen.png
+    links:
+      - "[PDF](/images/visual-landmarks.pdf){: .btn .btn--info}"
   - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
     authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
     venue: "In *International Conference on Machine Learning (ICML)*, 2019. **Oral Presentation**{:.oral}"
