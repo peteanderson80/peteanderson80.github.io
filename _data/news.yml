@@ -6,10 +6,6 @@ main:
   - "(July 2019) Our [nocaps](https://nocaps.org/) paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/)."
   - "(May 2019) Recognized as a [CVPR 2019 outstanding reviewer](http://cvpr2019.thecvf.com/files/CVPR_2019_Program_Guide.pdf)."
   - "(May 2019) We have released the [nocaps](https://nocaps.org/) benchmark for **n**ovel **o**bject **cap**tioning at **s**cale."
-  - "(April 2019) We have a paper accepted to [ICML 2019](https://icml.cc/). Congratulations Ashwin."
-  - "(February 2019) Co-organizing the [Visual Question Answering and Dialog Workshop](https://visualqa.org/workshop.html) and the [Habitat: Embodied Agents Challenge and Workshop](https://facebookmicrosites.github.io/habitat-website/workshop/) at CVPR 2019."
-  - "(February 2019) We have a paper accepted to [CVPR 2019](http://cvpr2019.thecvf.com/). Congratulations to Huda and Vincent."
-  - "(February 2019) I am serving as an Area Chair for [NeurIPS 2019](https://neurips.cc/Conferences/2019)."
 
 all:
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
