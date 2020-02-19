@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
   - "(October 2019) Excited to announce: from January, I'll be a Research Scientist at Google in Austin! Looking forward to collaborating with [Jason Baldridge](https://ai.google/research/people/JasonBaldridge/), [Radu Soricut](https://ai.google/research/people/105783) and others!"
   - "(September 2019) Our paper [Chasing Ghosts: Instruction Following as Bayesian State Tracking](https://arxiv.org/abs/1907.02022) is accepted to [NeurIPS 2019](https://neurips.cc/)."
   - "(July 2019) Our [nocaps](https://nocaps.org/) paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/)."
@@ -11,6 +12,7 @@ main:
   - "(February 2019) I am serving as an Area Chair for [NeurIPS 2019](https://neurips.cc/Conferences/2019)."
 
 all:
+  - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
   - "(October 2019) Excited to announce: from January, I'll be a Research Scientist at Google in Austin! Looking forward to collaborating with [Jason Baldridge](https://ai.google/research/people/JasonBaldridge/), [Radu Soricut](https://ai.google/research/people/105783) and others!"
   - "(September 2019) Our paper [Chasing Ghosts: Instruction Following as Bayesian State Tracking](https://arxiv.org/abs/1907.02022) is accepted to [NeurIPS 2019](https://neurips.cc/)."
   - "(July 2019) Our [nocaps](https://nocaps.org/) paper is accepted to [ICCV 2019](http://iccv2019.thecvf.com/)."

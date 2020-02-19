@@ -2,7 +2,7 @@
 year2019:
   - title: "Chasing Ghosts: Instruction Following as Bayesian State Tracking"
     authors: "**Peter Anderson**&#42;, Ayush Shrivastava&#42;, Devi Parikh, Dhruv Batra, Stefan Lee"
-    venue: "To appear in *Advances in Neural Information Processing Systems (NeurIPS)*, 2019."
+    venue: "In *Advances in Neural Information Processing Systems (NeurIPS)*, 2019."
     teaser: chasing_ghosts.png
     links:
       - "[PDF](https://arxiv.org/pdf/1907.02022.pdf){: .btn .btn--info}"
