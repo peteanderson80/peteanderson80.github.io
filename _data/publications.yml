@@ -1,4 +1,11 @@
 # Publications on home page
+year2020:
+  - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
+    authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020."
+    teaser: rerere.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
 year2019:
   - title: "Chasing Ghosts: Instruction Following as Bayesian State Tracking"
     authors: "**Peter Anderson**&#42;, Ayush Shrivastava&#42;, Devi Parikh, Dhruv Batra, Stefan Lee"
@@ -9,12 +16,6 @@ year2019:
       - "[Video](https://www.youtube.com/watch?v=eoGbescCNP0){: .btn}"
       - "[Poster](/images/vln-neurips19-poster.pdf){: .btn}"
       - "[Code](https://github.com/batra-mlp-lab/vln-chasing-ghosts){: .btn .btn--inverse}"
-  - title: "RERERE: Remote Embodied Referring Expressions in Real indoor Environments"
-    authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Marco Liu, Chunhua Shen, Anton van den Hengel"
-    venue: "arXiv preprint 1904.10151, 2019."
-    teaser: rerere.png
-    links:
-      - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
   - title: "nocaps: novel object captioning at scale"
     authors: "Harsh Agrawal&#42;, Karan Desai&#42;, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, **Peter Anderson**"
     venue: "In *International Conference on Computer Vision (ICCV)*, 2019."
