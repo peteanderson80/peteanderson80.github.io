@@ -12,6 +12,8 @@ year2020:
     teaser: rerere.png
     links:
       - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/YuankaiQi/REVERIE){: .btn .btn--inverse}"
+      - "[Leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/606/overview){: .btn}"
 year2019:
   - title: "Chasing Ghosts: Instruction Following as Bayesian State Tracking"
     authors: "**Peter Anderson**&#42;, Ayush Shrivastava&#42;, Devi Parikh, Dhruv Batra, Stefan Lee"
@@ -85,6 +87,7 @@ year2018:
       - "[PDF](https://arxiv.org/pdf/1711.07280){: .btn .btn--info}"
       - "[Code](https://github.com/peteanderson80/Matterport3DSimulator){: .btn .btn--inverse}"
       - "[Poster](/images/cvpr18_VLN_poster.pdf){: .btn}"
+      - "[Leaderboard](https://evalai.cloudcv.org/web/challenges/challenge-page/97/overview){: .btn}"
   - title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
     authors: "**Peter Anderson**, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang"
     venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018. **Oral Presentation [Top 2.1%]**{:.oral}"
