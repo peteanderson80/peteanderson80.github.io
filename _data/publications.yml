@@ -3,7 +3,7 @@ year2020:
   - title: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
     authors: "Arjun Majumdar, Ayush Shrivastava, Stefan Lee, **Peter Anderson**, Devi Parikh, Dhruv Batra"
     venue: "arXiv preprint 2004.14973, 2020."
-    teaser: vln-bert-v1.png
+    teaser: vln-bert-teaser.png
     links:
       - "[PDF](https://arxiv.org/pdf/2004.14973.pdf){: .btn .btn--info}"
   - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
