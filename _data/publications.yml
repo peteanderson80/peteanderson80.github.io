@@ -8,7 +8,7 @@ year2020:
       - "[PDF](https://arxiv.org/pdf/2004.14973.pdf){: .btn .btn--info}"
   - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
     authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020."
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. **Oral Presentation**{:.oral}"
     teaser: rerere.png
     links:
       - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
@@ -47,7 +47,7 @@ year2019:
       - "[PDF](/images/visual-landmarks.pdf){: .btn .btn--info}"
   - title: "Trainable Decoding of Sets of Sequences for Neural Sequence Models"
     authors: "Ashwin Kalyan, **Peter Anderson**, Stefan Lee, Dhruv Batra"
-    venue: "In *International Conference on Machine Learning (ICML)*, 2019. **Oral Presentation**{:.oral}"
+    venue: "In *International Conference on Machine Learning (ICML)*, 2019."
     teaser: sets_of_sequences.png
     links:
       - "[PDF](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf){: .btn .btn--info}"
