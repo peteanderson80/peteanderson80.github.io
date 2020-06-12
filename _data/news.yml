@@ -1,12 +1,12 @@
 # News on home page
 main:
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
-  - "(February 2020) Our REVERIE dataset for remote embodied referring expressions is accepted to CVPR."
+  - "(February 2020) Our REVERIE paper on remote embodied referring expressions is accepted as a CVPR oral presentation."
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
 
 all:
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
-  - "(February 2020) Our REVERIE dataset for remote embodied referring expressions is accepted to CVPR."
+  - "(February 2020) Our REVERIE paper on remote embodied referring expressions is accepted as a CVPR oral presentation."
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
   - "(October 2019) Excited to announce: from January, I'll be a Research Scientist at Google in Austin! Looking forward to collaborating with [Jason Baldridge](https://ai.google/research/people/JasonBaldridge/), [Radu Soricut](https://ai.google/research/people/105783) and others!"
   - "(September 2019) Our paper [Chasing Ghosts: Instruction Following as Bayesian State Tracking](https://arxiv.org/abs/1907.02022) is accepted to [NeurIPS 2019](https://neurips.cc/)."
