@@ -1,5 +1,9 @@
 # Publications on home page
 year2020:
+  - title: "Spatially Aware Multimodal Transformers for TextVQA"
+    authors: "Yash Kant, Dhruv Batra, **Peter Anderson**, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal"
+    venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020."
+    teaser: textvqa-teaser.png
   - title: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
     authors: "Arjun Majumdar, Ayush Shrivastava, Stefan Lee, **Peter Anderson**, Devi Parikh, Dhruv Batra"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020. **Spotlight Presentation [Top 5%]**{:.oral}"
