@@ -1,10 +1,12 @@
 # News on home page
 main:
+  - "(July 2020) Two papers accepted to [ECCV 2020](https://eccv2020.eu/)."
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
   - "(February 2020) Our [REVERIE](https://arxiv.org/abs/1904.10151) paper on remote embodied referring expressions is accepted to CVPR as an oral presentation."
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
 
 all:
+  - "(July 2020) Two papers accepted to [ECCV 2020](https://eccv2020.eu/)."
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
   - "(February 2020) Our [REVERIE](https://arxiv.org/abs/1904.10151) paper on remote embodied referring expressions is accepted to CVPR as an oral presentation."
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."

@@ -2,13 +2,13 @@
 year2020:
   - title: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
     authors: "Arjun Majumdar, Ayush Shrivastava, Stefan Lee, **Peter Anderson**, Devi Parikh, Dhruv Batra"
-    venue: "arXiv preprint 2004.14973, 2020."
+    venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020. **Spotlight Presentation [Top 5%]**{:.oral}"
     teaser: vln-bert-teaser-small.png
     links:
       - "[PDF](https://arxiv.org/pdf/2004.14973.pdf){: .btn .btn--info}"
   - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
     authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel"
-    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. **Oral Presentation**{:.oral}"
+    venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. **Oral Presentation [Top 5.7%]**{:.oral}"
     teaser: rerere.png
     links:
       - "[PDF](https://arxiv.org/pdf/1904.10151.pdf){: .btn .btn--info}"
