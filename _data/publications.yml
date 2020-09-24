@@ -20,6 +20,7 @@ year2020:
     teaser: vln-bert-teaser-small.png
     links:
       - "[PDF](https://arxiv.org/pdf/2004.14973.pdf){: .btn .btn--info}"
+      - "[Video](https://www.youtube.com/watch?v=Q4m3p3AYTOg){: .btn}"
   - title: "REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments"
     authors: "Yuankai Qi, Qi Wu, **Peter Anderson**, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel"
     venue: "In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020. **Oral Presentation [Top 5.7%]**{:.oral}"
