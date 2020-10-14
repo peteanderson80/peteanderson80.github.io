@@ -1,5 +1,9 @@
 # Publications on home page
 year2020:
+  - title: "Sim-to-Real Transfer for Vision-and-Language Navigation"
+    authors: "**Peter Anderson**, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee"
+    venue: "In *Conference on Robot Learning (CoRL)*, 2020."
+    teaser: sim2real-teaser.png
   - title: "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding"
     authors: "Alex Ku&#42;, **Peter Anderson**&#42;, Roma Patel, Eugene Ie, Jason Baldridge"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."

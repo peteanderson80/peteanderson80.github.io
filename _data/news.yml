@@ -1,5 +1,6 @@
 # News on home page
 main:
+  - "(October 2020) Our VLN sim-to-real paper is accepted to [CoRL 2020](https://www.robot-learning.org/)."
   - "(September 2020) Two papers accepted to [EMNLP 2020](https://2020.emnlp.org/)."
   - "(July 2020) Two papers accepted to [ECCV 2020](https://eccv2020.eu/)."
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
@@ -7,6 +8,7 @@ main:
   - "(February 2020) Delighted to be co-organizing workshops on [Embodied Vision, Actions and Language (EVAL)](https://askforalfred.com/EVAL/) at ECCV 2020 and [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/) at ACL 2020."
 
 all:
+  - "(October 2020) Our VLN sim-to-real paper is accepted to [CoRL 2020](https://www.robot-learning.org/)."
   - "(September 2020) Two papers accepted to [EMNLP 2020](https://2020.emnlp.org/)."
   - "(July 2020) Two papers accepted to [ECCV 2020](https://eccv2020.eu/)."
   - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
