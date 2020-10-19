@@ -8,6 +8,8 @@ year2020:
     authors: "Alex Ku&#42;, **Peter Anderson**&#42;, Roma Patel, Eugene Ie, Jason Baldridge"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
     teaser: rxr-teaser.png
+          - "[PDF](https://arxiv.org/pdf/2010.07954){: .btn .btn--info}"
+          - "[Dataset](https://github.com/google-research-datasets/RxR){: .btn .btn--inverse}"
   - title: "Where Are You? Localization from Embodied Dialog"
     authors: "Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee, **Peter Anderson**"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
