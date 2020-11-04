@@ -20,7 +20,11 @@ year2020:
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020."
     teaser: textvqa-teaser.png
     links:
+      - "[Project](https://yashkant.github.io/projects/sam-textvqa.html){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/2007.12146.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/yashkant/sam-textvqa){: .btn .btn--inverse}"
+      - "[Video](https://www.youtube.com/watch?v=rO89lcTvz2U){: .btn}"
+      - "[Slides](https://yashkant.github.io/data/sam-textvqa/slides.pdf){: .btn}"
   - title: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web"
     authors: "Arjun Majumdar, Ayush Shrivastava, Stefan Lee, **Peter Anderson**, Devi Parikh, Dhruv Batra"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020. **Spotlight Presentation [Top 5%]**{:.oral}"
