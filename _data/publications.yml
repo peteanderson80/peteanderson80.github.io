@@ -4,6 +4,9 @@ year2020:
     authors: "**Peter Anderson**, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee"
     venue: "In *Conference on Robot Learning (CoRL)*, 2020."
     teaser: sim2real-teaser.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/2011.03807){: .btn .btn--info}"
+      - "[Code](https://github.com/batra-mlp-lab/vln-sim2real){: .btn .btn--inverse}"
   - title: "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding"
     authors: "Alex Ku&#42;, **Peter Anderson**&#42;, Roma Patel, Eugene Ie, Jason Baldridge"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
