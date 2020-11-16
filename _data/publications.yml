@@ -7,6 +7,7 @@ year2020:
     links:
       - "[PDF](https://arxiv.org/pdf/2011.03807){: .btn .btn--info}"
       - "[Code](https://github.com/batra-mlp-lab/vln-sim2real){: .btn .btn--inverse}"
+      - "[Video](https://www.youtube.com/watch?v=THfTK7_xLX8){: .btn}"
   - title: "Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding"
     authors: "Alex Ku&#42;, **Peter Anderson**&#42;, Roma Patel, Eugene Ie, Jason Baldridge"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
@@ -18,6 +19,8 @@ year2020:
     authors: "Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee, **Peter Anderson**"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
     teaser: led-teaser.png
+    links:
+          - "[Video](https://www.youtube.com/watch?v=iMbkLC_9FKs){: .btn}"
   - title: "Spatially Aware Multimodal Transformers for TextVQA"
     authors: "Yash Kant, Dhruv Batra, **Peter Anderson**, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal"
     venue: "In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020."
