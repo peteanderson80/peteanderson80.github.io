@@ -20,6 +20,9 @@ year2020:
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
     teaser: led-teaser.png
     links:
+          - "[Project](https://meerahahn.github.io/way/){: .btn .btn--success}"
+          - "[PDF](https://meerahahn.github.io/way/static/img/way/Localization_Via_Dialogue_EMNLP_2020.pdf){: .btn .btn--info}"
+          - "[Code](https://github.com/batra-mlp-lab/WAY/){: .btn .btn--inverse}"
           - "[Video](https://www.youtube.com/watch?v=iMbkLC_9FKs){: .btn}"
   - title: "Spatially Aware Multimodal Transformers for TextVQA"
     authors: "Yash Kant, Dhruv Batra, **Peter Anderson**, Alex Schwing, Devi Parikh, Jiasen Lu, Harsh Agrawal"
