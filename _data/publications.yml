@@ -13,8 +13,10 @@ year2020:
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
     teaser: rxr-teaser.png
     links:
-          - "[PDF](https://arxiv.org/pdf/2010.07954){: .btn .btn--info}"
-          - "[Dataset](https://github.com/google-research-datasets/RxR){: .btn .btn--inverse}"
+      - "[PDF](https://arxiv.org/pdf/2010.07954){: .btn .btn--info}"
+      - "[Dataset](https://github.com/google-research-datasets/RxR){: .btn .btn--inverse}"
+      - "[Leaderboard](https://ai.google.com/research/rxr/){: .btn}"
+      - "[PanGEA Code](https://github.com/google-research/pangea){: .btn .btn--inverse}"
   - title: "Where Are You? Localization from Embodied Dialog"
     authors: "Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee, **Peter Anderson**"
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."

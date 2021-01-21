@@ -1,12 +1,14 @@
 # News on home page
 main:
+  - "(January 2021) Our [RxR challenge and leaderboard](https://ai.google.com/research/rxr/) for multilingual vision-and-language navigation is now open for submissions! We've also open-sourced [PanGEA](https://github.com/google-research/pangea), the annotation toolkit we developed to collect RxR."
+  - "(December 2020) Recognized as an [EMNLP 2020 outstanding reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)."
   - "(October 2020) Excited to release our new [RxR dataset](https://github.com/google-research-datasets/RxR) for multilingual Vision-and-Language Navigation (VLN)."
   - "(October 2020) Our VLN sim-to-real paper is accepted to [CoRL 2020](https://www.robot-learning.org/)."
   - "(September 2020) Two papers accepted to [EMNLP 2020](https://2020.emnlp.org/)."
-  - "(July 2020) Two papers accepted to [ECCV 2020](https://eccv2020.eu/)."
-  - "(June 2020) Presenting an invited talk at the [VizWiz workshop](https://vizwiz.org/workshops/2020-workshop/) at [CVPR 2020](http://cvpr2020.thecvf.com/)."
 
 all:
+  - "(January 2021) Our [RxR challenge and leaderboard](https://ai.google.com/research/rxr/) for multilingual vision-and-language navigation is now open for submissions! We've also open-sourced [PanGEA](https://github.com/google-research/pangea), the annotation toolkit we developed to collect RxR."
+  - "(December 2020) Recognized as an [EMNLP 2020 outstanding reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)."
   - "(October 2020) Excited to release our new [RxR dataset](https://github.com/google-research-datasets/RxR) for multilingual Vision-and-Language Navigation (VLN)."
   - "(October 2020) Our VLN sim-to-real paper is accepted to [CoRL 2020](https://www.robot-learning.org/)."
   - "(September 2020) Two papers accepted to [EMNLP 2020](https://2020.emnlp.org/)."
