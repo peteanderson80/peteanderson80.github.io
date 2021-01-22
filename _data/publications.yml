@@ -13,6 +13,7 @@ year2020:
     venue: "In *Conference on Empirical Methods for Natural Language Processing (EMNLP)*, 2020."
     teaser: rxr-teaser.png
     links:
+      - "[Blog](https://ai.googleblog.com/2021/01/rxr-multilingual-benchmark-for.html){: .btn .btn--success}"
       - "[PDF](https://arxiv.org/pdf/2010.07954){: .btn .btn--info}"
       - "[Dataset](https://github.com/google-research-datasets/RxR){: .btn .btn--inverse}"
       - "[Leaderboard](https://ai.google.com/research/rxr/){: .btn}"
