@@ -20,6 +20,11 @@ author_profile: true
 </div>
 
 <h2 style="clear: both;" id="publications">Publications <a href="https://scholar.google.com/citations?user=r5mA7Q8AAAAJ&hl=en" style="font-size: 0.85em; font-weight: normal;">[Google Scholar]</a></h2>
+<h3>2021</h3>
+{% for publication in site.data.publications.year2021 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
 <h3>2020</h3>
 {% for publication in site.data.publications.year2020 %}
   {% include publication-single.html %}
