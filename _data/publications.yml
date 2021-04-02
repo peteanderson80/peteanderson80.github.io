@@ -1,5 +1,12 @@
 # Publications on home page
 year2021:
+  - title: "PanGEA: The Panoramic Graph Environment Annotation Toolkit"
+    authors: "Alex Ku, **Peter Anderson**, Jordi Pont-Tuset, Jason Baldridge"
+    venue: "arXiv preprint 2103.12703, 2021."
+    teaser: pangea.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/2103.12703.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/google-research/pangea){: .btn .btn--inverse}"
   - title: "On the Evaluation of Vision-and-Language Navigation Instructions"
     authors: "Ming Zhao, **Peter Anderson**, Vihan Jain, Su Wang, Alex Ku, Jason Baldridge, Eugene Ie"
     venue: "In *Conference of the European Chapter of the Association for Computational Linguistics (EACL)*, 2021."
