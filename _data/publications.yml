@@ -3,7 +3,7 @@ year2021:
   - title: "PanGEA: The Panoramic Graph Environment Annotation Toolkit"
     authors: "Alex Ku, **Peter Anderson**, Jordi Pont-Tuset, Jason Baldridge"
     venue: "arXiv preprint 2103.12703, 2021."
-    teaser: pangea.png
+    teaser: pangea-teaser.png
     links:
       - "[PDF](https://arxiv.org/pdf/2103.12703.pdf){: .btn .btn--info}"
       - "[Code](https://github.com/google-research/pangea){: .btn .btn--inverse}"
