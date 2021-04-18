@@ -13,6 +13,7 @@ year2021:
     teaser: compatibility-teaser.png
     links:
       - "[PDF](https://arxiv.org/pdf/2101.10504.pdf){: .btn .btn--info}"
+      - "[Poster](/images/VLNevalposter.pdf){: .btn}"
 year2020:
   - title: "Sim-to-Real Transfer for Vision-and-Language Navigation"
     authors: "**Peter Anderson**, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee"
