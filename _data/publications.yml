@@ -9,7 +9,7 @@ year2021:
       - "[Video](https://youtu.be/HNAmsdk7lJ4){: .btn}"
   - title: "PanGEA: The Panoramic Graph Environment Annotation Toolkit"
     authors: "Alex Ku, **Peter Anderson**, Jordi Pont-Tuset, Jason Baldridge"
-    venue: "arXiv preprint 2103.12703, 2021."
+    venue: "In *2nd Workshop on Advances in Language and Vision Research (ALVR) at EMNLP*, 2021."
     teaser: pangea-teaser.png
     links:
       - "[PDF](https://arxiv.org/pdf/2103.12703.pdf){: .btn .btn--info}"
