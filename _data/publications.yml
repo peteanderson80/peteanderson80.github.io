@@ -1,5 +1,12 @@
 # Publications on home page
 year2021:
+  - title: "Pathdreamer: A World Model for Indoor Navigation"
+    authors: "Jing Yu Koh, Honglak Lee, Yinfei Yang, Jason Baldridge, **Peter Anderson**"
+    venue: "arXiv preprint 2105.08756, 2021."
+    teaser: pathdreamer-teaser.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/2105.08756.pdf){: .btn .btn--info}"
+      - "[Video](https://youtu.be/HNAmsdk7lJ4){: .btn}"
   - title: "PanGEA: The Panoramic Graph Environment Annotation Toolkit"
     authors: "Alex Ku, **Peter Anderson**, Jordi Pont-Tuset, Jason Baldridge"
     venue: "arXiv preprint 2103.12703, 2021."
