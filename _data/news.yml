@@ -1,11 +1,14 @@
 # News on home page
 main:
+  - "(June 2021) Presenting an invited talk at the [CVPR Embodied AI workshop](https://embodied-ai.org/) - 'Massive Datasets for Language-Guided Navigation Agents and Where to Find Them'."
+  - "(June 2021) Co-organizing a CVPR tutorial - [From VQA to VLN: Recent Advances in Vision-and-Language Research](https://vqa2vln-tutorial.github.io/)" 
   - "(February 2021) [RxR-Habitat challenge](https://ai.google.com/research/rxr/habitat?active_tab=leaderboard) launched for multilingual instruction-following in continuous environments!"
   - "(January 2021) Our paper on the evaluation of grounded navigation instructions is accepted to [EACL 2021](https://2021.eacl.org/)."
   - "(January 2021) Our [RxR challenge and leaderboard](https://ai.google.com/research/rxr/) for multilingual vision-and-language navigation is now open for submissions! We've also open-sourced [PanGEA](https://github.com/google-research/pangea), the annotation toolkit we developed to collect RxR."
-  - "(December 2020) Recognized as an [EMNLP 2020 outstanding reviewer](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf)."
 
 all:
+  - "(June 2021) Presenting an invited talk at the [CVPR Embodied AI workshop](https://embodied-ai.org/) - 'Massive Datasets for Language-Guided Navigation Agents and Where to Find Them'."
+  - "(June 2021) Co-organizing a CVPR tutorial - [From VQA to VLN: Recent Advances in Vision-and-Language Research](https://vqa2vln-tutorial.github.io/)"
   - "(February 2021) [RxR-Habitat Challenge](https://ai.google.com/research/rxr/habitat?active_tab=leaderboard) launched for multilingual instruction-following in continuous environments!"
   - "(January 2021) Our paper on the evaluation of grounded navigation instructions is accepted to [EACL 2021](https://2021.eacl.org/)."
   - "(January 2021) Our [RxR challenge and leaderboard](https://ai.google.com/research/rxr/) for multilingual vision-and-language navigation is now open for submissions! We've also open-sourced [PanGEA](https://github.com/google-research/pangea), the annotation toolkit we developed to collect RxR."
